@@ -19,7 +19,7 @@ public class UserDao {
 		boolean f=false;
 		
 		try {
-			String sql = "insert into user_dtls(full_name,email,password) values(?,?,?)";
+			String sql = "insert into user_dtls(fullname,email,password) values(?,?,?)";
 			PreparedStatement ps = conn.prepareStatement(sql);
 			ps.setString(1, user.getFullname());
 			ps.setString(2, user.getEmail());

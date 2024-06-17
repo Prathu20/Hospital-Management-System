@@ -61,7 +61,7 @@
 								<th scope="col">Age</th>
 								<th scope="col">Appointment Date</th>
 								<th scope="col">Diseases</th>
-								<th scope="col">Doctor Name</th>
+								<!-- <th scope="col">Doctor Name</th> -->
 								<th scope="col">Status</th>
 							</tr>
 						</thead>
@@ -81,7 +81,7 @@
 							 	<td><%=app.getAge() %></td>
 							 	<td><%=app.getAppointment_date() %></td>
 							 	<td><%=app.getDiseases() %></td>
-							 	<td><%=d.getFullname() %></td>
+							 	<%-- <td><%=d.getFullname() %></td> --%>
 							 	<td>
 							 	<%
 							 	if("Pending".equals(app.getStatus())){%>
