@@ -9,10 +9,17 @@ This system is tailored to handle various tasks, including user registration, ap
 **Objectives:**
 The primary objectives of the Hospital Management System are:
 
-**Streamlined User Registration and Authentication:** Simplifying the process for users to register, log in, and manage their accounts securely.
-**Efficient Appointment Management:** Allowing patients to book, edit, view, and cancel appointments with ease.
-**Comprehensive Doctor Management:** Enabling doctors and specialists to manage their profiles and schedules effectively.
-**Robust Administrative Tools:** Providing administrators with the capabilities to oversee hospital operations, manage doctor details, and monitor appointments.
+**Streamlined User Registration and Authentication:** 
+Simplifying the process for users to register, log in, and manage their accounts securely.
+
+**Efficient Appointment Management:** 
+Allowing patients to book, edit, view, and cancel appointments with ease.
+
+**Comprehensive Doctor Management:** 
+Enabling doctors and specialists to manage their profiles and schedules effectively.
+
+**Robust Administrative Tools:** 
+Providing administrators with the capabilities to oversee hospital operations, manage doctor details, and monitor appointments.
 
 **Features:**
 
